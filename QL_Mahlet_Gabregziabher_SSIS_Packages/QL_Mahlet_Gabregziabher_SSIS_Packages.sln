@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "QL_Mahlet_Gabregziabher_SSIS_Packages", "QL_Mahlet_Gabregziabher_SSIS_Packages.dtproj", "{2D1A5881-E449-41F8-8697-AD2E0BD4965D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1A5881-E449-41F8-8697-AD2E0BD4965D}.Development|Default.ActiveCfg = Development
+		{2D1A5881-E449-41F8-8697-AD2E0BD4965D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEAD947-2180-47C6-89EA-4CA21A29D58B}
+	EndGlobalSection
+EndGlobal
